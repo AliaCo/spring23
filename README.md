@@ -1,5 +1,5 @@
 # Deep learning course
-This repository contains hometasks for a Deep Learning course covering various topics and models.
+This repository contains homeworks for a Deep Learning course covering various topics and models.
 
 ## Topics Covered
 * ClassicML:
@@ -12,5 +12,5 @@ This repository contains hometasks for a Deep Learning course covering various t
 * Generative Adversarial Networks (GAN)
 
 ## Note
-* The hometasks and materials are primarily in Russian.
+* The homeworks and materials are primarily in Russian.
 * Translation of the content into English is in progress.
